@@ -87,7 +87,7 @@
         <br /><strong>FastAPI</strong><br /><sub>BACKEND</sub><br>
       </td>
       <td align="center" width="120">
-        <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="60" height="60" />
+        <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="60" height="60" />
         <br /><strong>Firebase</strong><br /><sub>BACKEND</sub><br>
       </td>
     </tr>
