@@ -1,5 +1,15 @@
 <div align="center">
-  <img src="./banner.png" alt="Synax Banner" width="100%" />
+  <img src="./banner.png" alt="Banner" width="100%" />
+  <br/><br/>
+  <a href="https://github.com/biswa16-dev/biswa16-dev/stargazers">
+    <img src="https://img.shields.io/github/stars/biswa16-dev/biswa16-dev?style=for-the-badge&color=000000&logo=github&logoColor=white" alt="Stars" />
+  </a>
+  <a href="https://github.com/biswa16-dev/biswa16-dev/network/members">
+    <img src="https://img.shields.io/github/forks/biswa16-dev/biswa16-dev?style=for-the-badge&color=000000&logo=github&logoColor=white" alt="Forks" />
+  </a>
+  <a href="https://github.com/biswa16-dev?tab=followers">
+    <img src="https://img.shields.io/github/followers/biswa16-dev?style=for-the-badge&color=000000&logo=github&logoColor=white" alt="Followers" />
+  </a>
 </div>
 
 <br/>
