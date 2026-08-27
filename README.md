@@ -33,7 +33,7 @@
   </p>
   <br/>
   <p>
-    <a href="https://github.com/biswa16-dev/Sportshield"><img src="https://img.shields.io/badge/SPORTSHIELD-000000?style=for-the-badge&logo=github&logoColor=white" align="center" /></a> &nbsp; AI-Powered Sports Piracy Detection Platform
+    <a href="https://github.com/biswa16-dev/Sportshield"><img src="https://img.shields.io/badge/SPORTSHIELD-000000?style=for-the-badge&logo=github&logoColor=white" align="center" /></a> &nbsp; AI-Powered Sports Piracy Detection Platform.
   </p>
 </div>
 <br clear="both"/>
