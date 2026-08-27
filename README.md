@@ -11,25 +11,88 @@
 <div>
   <img src="./brain.jpg" align="left" width="180" style="margin-right: 20px;" />
   <br/>
-  <h4>Hey there! I'm Karthick</h4>
-  <p>I'm an AI & Data Science undergrad fueled by sambar and an unhealthy obsession with minimalist dark themes. By day, I pretend to understand the universe. By night, I write Python scripts to automate myself out of doing actual work. When I'm not coding, I'm usually crashing helicopters in GTA V or treating my Clash of Clans village like a highly stressful Fortune 500 company.</p>
+  <h4>Hey there! I'm Biswajit Nayak</h4>
+  <p>I am a full-stack developer focused on building intelligent systems that solve real-world problems—not just demos that look good on GitHub. I thrive working across frontend, backend, and AI-driven applications, continuously leveling up through hands-on projects, hackathons, and open-source contributions.</p>
 </div>
 <br clear="both"/>
 
 <br/>
 
-### Top Projects (built to avoid manual labor)
+### Tech Stack
 
 ---
 
 <div>
-  <img src="./flame.jpg" align="right" width="150" style="margin-left: 20px;" />
-  <br/>
-  <a href="#"><img src="https://img.shields.io/badge/FILEGHOST-101010?style=for-the-badge&logo=github&logoColor=white" alt="FILEGHOST" /></a> &nbsp; Secure file sharing, because some code needs to self-destruct gracefully.<br><br>
+  <img src="./flame.jpg" align="right" width="200" style="margin-left: 20px;" />
   
-  <a href="#"><img src="https://img.shields.io/badge/GEN_GHOST_V1-101010?style=for-the-badge&logo=github&logoColor=white" alt="GEN GHOST V1" /></a> &nbsp; A Discord bot that manages my server better than I manage my sleep schedule.<br><br>
-  
-  <a href="#"><img src="https://img.shields.io/badge/QN_DOCS-101010?style=for-the-badge&logo=github&logoColor=white" alt="QN DOCS" /></a> &nbsp; RAG-based AI to read text files for me, because reading is hard.<br><br>
+  <table>
+    <tr>
+      <td align="center" width="140">
+        <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" />
+        <br /><strong>React</strong><br /><sub>FRONTEND</sub><br>
+      </td>
+      <td align="center" width="140">
+        <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" />
+        <br /><strong>TypeScript</strong><br /><sub>LANGUAGE</sub><br>
+      </td>
+      <td align="center" width="140">
+        <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" />
+        <br /><strong>Node.js</strong><br /><sub>BACKEND</sub><br>
+      </td>
+      <td align="center" width="140">
+        <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" />
+        <br /><strong>Python</strong><br /><sub>AI / ML</sub><br>
+      </td>
+      <td align="center" width="140">
+        <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" />
+        <br /><strong>MongoDB</strong><br /><sub>DATABASE</sub><br>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="140">
+        <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" />
+        <br /><strong>Git</strong><br /><sub>TOOLS</sub><br>
+      </td>
+      <td align="center" width="140">
+        <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" />
+        <br /><strong>Docker</strong><br /><sub>DEVOPS</sub><br>
+      </td>
+      <td align="center" width="140">
+        <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45" height="45" />
+        <br /><strong>Google Cloud</strong><br /><sub>CLOUD</sub><br>
+      </td>
+      <td align="center" width="140">
+        <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" />
+        <br /><strong>C++</strong><br /><sub>LANGUAGE</sub><br>
+      </td>
+      <td align="center" width="140">
+        <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" />
+        <br /><strong>PostgreSQL</strong><br /><sub>DATABASE</sub><br>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="140">
+        <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" />
+        <br /><strong>MySQL</strong><br /><sub>DATABASE</sub><br>
+      </td>
+      <td align="center" width="140">
+        <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45" />
+        <br /><strong>Next.js</strong><br /><sub>FRONTEND</sub><br>
+      </td>
+      <td align="center" width="140">
+        <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="45" height="45" />
+        <br /><strong>Firebase</strong><br /><sub>BACKEND</sub><br>
+      </td>
+      <td align="center" width="140">
+        <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" height="45" />
+        <br /><strong>FastAPI</strong><br /><sub>BACKEND</sub><br>
+      </td>
+      <td align="center" width="140">
+        <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" />
+        <br /><strong>Tailwind CSS</strong><br /><sub>FRAMEWORK</sub><br>
+      </td>
+    </tr>
+  </table>
 </div>
 <br clear="both"/>
 
@@ -40,10 +103,9 @@
 ---
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/GITHUB-101010?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LINKEDIN-101010?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GMAIL-101010?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/RESUME-101010?style=for-the-badge&logo=ReadMe&logoColor=white" alt="Resume" /></a>
+  <a href="https://github.com/biswa16-dev"><img src="https://img.shields.io/badge/GITHUB-101010?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/nayak08/"><img src="https://img.shields.io/badge/LINKEDIN-101010?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:biswa1601.nk@gmail.com"><img src="https://img.shields.io/badge/GMAIL-101010?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
 <br/>
