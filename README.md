@@ -43,11 +43,12 @@
 
 <br/>
 
-### Tech Stack
+<h3 align="center">Tech Stack</h3>
 
 ---
 
 <div align="center">
+  <img src="./flame.jpg" align="right" width="200" style="margin-left: 20px;" />
   <br/>
   <table border="0" align="center">
     <tr>
