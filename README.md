@@ -64,6 +64,10 @@
         <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" />
         <br /><strong>Python</strong><br /><sub>AI / ML</sub><br>
       </td>
+      <td align="center" width="120">
+        <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60" />
+        <br /><strong>C++</strong><br /><sub>LANGUAGE</sub><br>
+      </td>
     </tr>
     <tr>
       <td align="center" width="120">
@@ -82,6 +86,10 @@
         <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="60" height="60" />
         <br /><strong>FastAPI</strong><br /><sub>BACKEND</sub><br>
       </td>
+      <td align="center" width="120">
+        <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="60" height="60" />
+        <br /><strong>Firebase</strong><br /><sub>BACKEND</sub><br>
+      </td>
     </tr>
     <tr>
       <td align="center" width="120">
@@ -99,6 +107,10 @@
       <td align="center" width="120">
         <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="60" height="60" />
         <br /><strong>Tailwind CSS</strong><br /><sub>FRAMEWORK</sub><br>
+      </td>
+      <td align="center" width="120">
+        <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="60" height="60" />
+        <br /><strong>PyTorch</strong><br /><sub>AI / ML</sub><br>
       </td>
     </tr>
   </table>
