@@ -12,7 +12,7 @@
   <img src="./brain.jpg" align="left" width="180" style="margin-right: 20px;" />
   <br/>
   <h4>Hey there! I'm Biswajit Nayak</h4>
-  <p>I am a full-stack developer focused on building intelligent systems that solve real-world problems—not just demos that look good on GitHub. I enjoy working across frontend, backend and AI-driven applications, while continuously learning through real projects, hackathons and open source.</p>
+  <p>I am a full-stack developer focused on building intelligent systems that solve real-world problems, not just demos that look good on GitHub. I enjoy working across frontend, backend and AI-driven applications, while continuously learning through real projects, hackathons and open source.</p>
 </div>
 <br clear="both"/>
 
@@ -98,10 +98,7 @@
 
 <br/>
 
-> Code is never finished. It only becomes slightly less terrible over time.
-> 
-> Every commit I make is essentially just a small, desperate apology to my future self.
-> Someday I will return to this codebase, look at the spaghetti I've written, and wonder who let me anywhere near a keyboard.
+> Looking to Collaborate On open source contribution and Creative problem-solving challenges
 
 <br/>
 
