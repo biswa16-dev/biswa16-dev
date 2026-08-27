@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.svg" alt="Synax Banner" width="100%" />
+  <img src="./banner.png" alt="Synax Banner" width="100%" />
 </div>
 
 <br/>
