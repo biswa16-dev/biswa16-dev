@@ -27,6 +27,7 @@
 ---
 
 <div>
+  <img src="./flame.jpg" align="right" width="200" style="margin-left: 20px;" />
   <p>
     <a href="https://github.com/biswa16-dev/EmoSync">
       <img src="https://img.shields.io/badge/EMOSYNC-000000?style=for-the-badge&logo=github&logoColor=white" align="center" />
@@ -48,7 +49,6 @@
 ---
 
 <div align="center">
-  <img src="./flame.jpg" align="right" width="200" style="margin-left: 20px;" />
   <br/>
   <table border="0" align="center">
     <tr>
