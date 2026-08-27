@@ -1,9 +1,9 @@
 <div align="center">
   <img src="banner.png" alt="Banner" width="100%" />
   <br/><br/>
-  <img src="https://img.shields.io/badge/STARS-6?style=for-the-badge&color=000000&labelColor=000000&logo=reverbnation&logoColor=white" alt="Stars" />&nbsp;
-  <img src="https://img.shields.io/badge/FORKS-0?style=for-the-badge&color=000000&labelColor=000000&logo=git&logoColor=white" alt="Forks" />&nbsp;
-  <img src="https://img.shields.io/github/followers/biswa16-dev?style=for-the-badge&color=000000&labelColor=000000&logo=github&logoColor=white" alt="Followers" />
+  <img src="https://img.shields.io/badge/STARS-06?style=for-the-badge&color=000000&labelColor=000000&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2Ij48cGF0aCBmaWxsPSJ3aGl0ZSIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNOCAuMjVhLjc1Ljc1IDAgMDEuNjczLjQxOGwxLjg4MiAzLjgxNSA0LjIxLjYxMmEuNzUuNzUgMCAwMS40MTYgMS4yNzlsLTMuMDQ2IDIuOTcuNzE5IDQuMTkyYS43NS43NSAwIDAxLTEuMDg4Ljc5MUw4IDEyLjM0N2wtMy43NjYgMS45OGEuNzUuNzUgMCAwMS0xLjA4OC0uNzlsLjcyLTQuMTk0TC44MTggNi4zNzRhLjc1Ljc1IDAgMDEuNDE2LTEuMjhsNC4yMS0uNjExTDcuMzI3LjY2OEEuNzUuNzUgMCAwMS04IC4yNXptMCAyLjQ0NUw2LjYxNSA1LjVhLjc1Ljc1IDAgMDEtLjU2NC40MWwtMy4wOTcuNDUgMi4yNCAyLjE4NGEuNzUuNzUgMCAwMS4yMTYuNjY0bC0uNTI4IDMuMDg0IDIuNzY5LTEuNDU2YS43NS43NSAwIDAxLjY5OCAwbDIuNzcgMS40NTYtLjUzLTMuMDg0YS43NS43NSAwIDAxLjIxNi0uNjY0bDIuMjQtMi4xODMtMy4wOTYtLjQ1YS43NS43NSAwIDAxLS41NjQtLjQxTDggMi42OTR2LjAwMXoiPjwvcGF0aD48L3N2Zz4=&logoColor=white" alt="Stars" />&nbsp;
+  <img src="https://img.shields.io/badge/FORKS-0?style=for-the-badge&color=000000&labelColor=000000&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2Ij48cGF0aCBmaWxsPSJ3aGl0ZSIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNNSAzLjI1YS43NS43NSAwIDExLTEuNSAwIC43NS43NSAwIDAxMS41IDB6bTAgMi4xMjJhMi4yNSAyLjI1IDAgMTAtMS41IDB2Ljg3OEEyLjI1IDIuMjUgMCAwMDUuNzUgOC41aDEuNXYyLjEyOGEyLjI1MSAyLjI1MSAwIDEwMS41IDBWOC41aDEuNWEyLjI1IDIuMjUgMCAwMDIuMjUtMi4yNXYtLjg3OGEyLjI1IDIuMjUgMCAxMC0xLjUgMHYuODc4YS43NS43NSAwIDAxLS43NS43NWgtNC41QS43NS43NSAwIDAxNSA2LjI1di0uODc4em0zLjc1IDcuMzc4YS43NS43NSAwIDExLTEuNSAwIC43NS43NSAwIDAxMS41IDB6bTMtOC43NWEuNzUuNzUgMCAxMDAtMS41Ljc1Ljc1IDAgMDAwIDEuNXoiPjwvcGF0aD48L3N2Zz4=&logoColor=white" alt="Forks" />&nbsp;
+  <img src="https://img.shields.io/github/followers/biswa16-dev?style=for-the-badge&color=000000&labelColor=000000&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2Ij48cGF0aCBmaWxsPSJ3aGl0ZSIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNNS41IDMuNWEyIDIgMCAxMDAgNCAyIDIgMCAwMDAtNHpNMiA1LjVhMy41IDMuNSAwIDExNS44OTggMi41NDkgNS41MDcgNS41MDcgMCAwMTMuMDM0IDQuMDg0Ljc1Ljc1IDAgMTEtMS40ODIuMjM1IDQuMDAxIDQuMDAxIDAgMDAtNy45IDAgLjc1Ljc1IDAgMDEtMS40ODItLjIzNkE1LjUwNyA1LjUwNyAwIDAxMy4xMDIgOC4wNSAzLjQ5IDMuNDkgMCAwMTIgNS41ek0xMSA0YS43NS43NSAwIDEwMCAxLjUgMS41IDEuNSAwIDAxLjY2NiAyLjg0NC43NS43NSAwIDAwLS40MTYuNjcydi4zNTJhLjc1Ljc1IDAgMDAuNTc0LjczYzEuMi4yODkgMi4xNjIgMS4yIDIuNTIyIDIuMzcyYS43NS43NSAwIDEwMS40MzQtLjQ0IDUuMDEgNS4wMSAwIDAwLTMuNTU5LTMuNDE1QTMgMyAwIDAwMTEgNHoiPjwvcGF0aD48L3N2Zz4=&logoColor=white" alt="Followers" />
 </div>
 
 <br/>
@@ -22,17 +22,21 @@
 
 <br/>
 
-### Top Projects (built to avoid manual labor)
+### Top Projects
 
 ---
 
 <div>
-  <img src="./flame.jpg" align="right" width="200" style="margin-left: 20px;" />
-  <br/>
   <p>
     <a href="https://github.com/biswa16-dev/EmoSync">
       <img src="https://img.shields.io/badge/EMOSYNC-000000?style=for-the-badge&logo=github&logoColor=white" align="center" />
     </a> &nbsp; An emotion-aware system because feelings are too complex to process manually.
+  </p>
+  <br/>
+  <p>
+    <a href="https://github.com/biswa16-dev/Sportshield">
+      <img src="https://img.shields.io/badge/SPORTSHIELD-000000?style=for-the-badge&logo=github&logoColor=white" align="center" />
+    </a> &nbsp; AI-powered sports analytics.
   </p>
 </div>
 <br clear="both"/>
@@ -43,60 +47,60 @@
 
 ---
 
-<div>
+<div align="center">
   <br/>
-  <table border="0">
+  <table border="0" align="center">
     <tr>
       <td align="center" width="120">
-        <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
+        <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" />
         <br /><strong>React</strong><br /><sub>FRONTEND</sub><br>
       </td>
       <td align="center" width="120">
-        <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
+        <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60" />
         <br /><strong>TypeScript</strong><br /><sub>LANGUAGE</sub><br>
       </td>
       <td align="center" width="120">
-        <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
+        <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" />
         <br /><strong>Node.js</strong><br /><sub>BACKEND</sub><br>
       </td>
       <td align="center" width="120">
-        <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+        <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" />
         <br /><strong>Python</strong><br /><sub>AI / ML</sub><br>
       </td>
     </tr>
     <tr>
       <td align="center" width="120">
-        <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
+        <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" />
         <br /><strong>Git</strong><br /><sub>TOOLS</sub><br>
       </td>
       <td align="center" width="120">
-        <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
+        <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60" />
         <br /><strong>Docker</strong><br /><sub>DEVOPS</sub><br>
       </td>
       <td align="center" width="120">
-        <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" />
+        <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="60" />
         <br /><strong>Next.js</strong><br /><sub>FRONTEND</sub><br>
       </td>
       <td align="center" width="120">
-        <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" />
+        <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="60" height="60" />
         <br /><strong>FastAPI</strong><br /><sub>BACKEND</sub><br>
       </td>
     </tr>
     <tr>
       <td align="center" width="120">
-        <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" />
+        <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" />
         <br /><strong>MongoDB</strong><br /><sub>DATABASE</sub><br>
       </td>
       <td align="center" width="120">
-        <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" />
+        <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60" />
         <br /><strong>PostgreSQL</strong><br /><sub>DATABASE</sub><br>
       </td>
       <td align="center" width="120">
-        <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" />
+        <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="60" height="60" />
         <br /><strong>Google Cloud</strong><br /><sub>CLOUD</sub><br>
       </td>
       <td align="center" width="120">
-        <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" />
+        <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="60" height="60" />
         <br /><strong>Tailwind CSS</strong><br /><sub>FRAMEWORK</sub><br>
       </td>
     </tr>
@@ -115,6 +119,10 @@
   <a href="https://www.linkedin.com/in/nayak08/"><img src="https://img.shields.io/badge/LINKEDIN-101010?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:biswa1601.nk@gmail.com"><img src="https://img.shields.io/badge/GMAIL-101010?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
+
+<br/>
+
+> Code is never finished, it only becomes slightly less terrible over time.
 
 <br/>
 
