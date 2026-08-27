@@ -107,5 +107,5 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=biswa16-dev&theme=transparent&hide_border=true&color=ffffff&line=ffffff&point=ffffff&area=true" alt="Contribution Graph" width="100%" />
+  <img src="./contribution.jpg" alt="Contribution Graph" width="100%" />
 </div>
