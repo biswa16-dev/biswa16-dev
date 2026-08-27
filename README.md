@@ -29,15 +29,11 @@
 <div>
   <img src="./flame.jpg" align="right" width="200" style="margin-left: 20px;" />
   <p>
-    <a href="https://github.com/biswa16-dev/EmoSync">
-      <img src="https://img.shields.io/badge/EMOSYNC-000000?style=for-the-badge&logo=github&logoColor=white" align="center" />
-    </a> &nbsp; An emotion-aware system because feelings are too complex to process manually.
+    <a href="https://github.com/biswa16-dev/EmoSync"><img src="https://img.shields.io/badge/EMOSYNC-000000?style=for-the-badge&logo=github&logoColor=white" align="center" /></a> &nbsp; An emotion-aware system because feelings are too complex to process manually.
   </p>
   <br/>
   <p>
-    <a href="https://github.com/biswa16-dev/Sportshield">
-      <img src="https://img.shields.io/badge/SPORTSHIELD-000000?style=for-the-badge&logo=github&logoColor=white" align="center" />
-    </a> &nbsp; AI-powered sports analytics.
+    <a href="https://github.com/biswa16-dev/Sportshield"><img src="https://img.shields.io/badge/SPORTSHIELD-000000?style=for-the-badge&logo=github&logoColor=white" align="center" /></a> &nbsp; AI-Powered Sports Piracy Detection Platform
   </p>
 </div>
 <br clear="both"/>
