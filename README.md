@@ -9,7 +9,7 @@
 ---
 
 <div>
-  <img src="./download.jpg" align="left" width="180" style="margin-right: 20px;" />
+  <img src="./brain.jpg" align="left" width="180" style="margin-right: 20px;" />
   <br/>
   <h4>Hey there! I'm Karthick</h4>
   <p>I'm an AI & Data Science undergrad fueled by sambar and an unhealthy obsession with minimalist dark themes. By day, I pretend to understand the universe. By night, I write Python scripts to automate myself out of doing actual work. When I'm not coding, I'm usually crashing helicopters in GTA V or treating my Clash of Clans village like a highly stressful Fortune 500 company.</p>
@@ -23,7 +23,7 @@
 ---
 
 <div>
-  <img src="./Download premium png of PNG Vintage black flame illustration_ by Hein about fire, background, png, paper, and space 17874115.jpg" align="right" width="150" style="margin-left: 20px;" />
+  <img src="./flame.jpg" align="right" width="150" style="margin-left: 20px;" />
   <br/>
   <a href="#"><img src="https://img.shields.io/badge/FILEGHOST-101010?style=for-the-badge&logo=github&logoColor=white" alt="FILEGHOST" /></a> &nbsp; Secure file sharing, because some code needs to self-destruct gracefully.<br><br>
   
@@ -60,5 +60,5 @@
 ---
 
 <div align="center">
-  <img src="./download (5).jpg" alt="Contribution Graph" width="100%" />
+  <img src="./contribution.jpg" alt="Contribution Graph" width="100%" />
 </div>
