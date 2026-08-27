@@ -1,8 +1,8 @@
 <div align="center">
   <img src="banner.png" alt="Banner" width="100%" />
   <br/><br/>
-  <img src="https://img.shields.io/github/stars/biswa16-dev/biswa16-dev?style=for-the-badge&color=000000&labelColor=000000&logo=github&logoColor=white" alt="Stars" />&nbsp;
-  <img src="https://img.shields.io/github/forks/biswa16-dev/biswa16-dev?style=for-the-badge&color=000000&labelColor=000000&logo=github&logoColor=white" alt="Forks" />&nbsp;
+  <img src="https://img.shields.io/badge/STARS-6?style=for-the-badge&color=000000&labelColor=000000&logo=reverbnation&logoColor=white" alt="Stars" />&nbsp;
+  <img src="https://img.shields.io/badge/FORKS-0?style=for-the-badge&color=000000&labelColor=000000&logo=git&logoColor=white" alt="Forks" />&nbsp;
   <img src="https://img.shields.io/github/followers/biswa16-dev?style=for-the-badge&color=000000&labelColor=000000&logo=github&logoColor=white" alt="Followers" />
 </div>
 
@@ -22,12 +22,28 @@
 
 <br/>
 
-### Tech Stack
+### Top Projects (built to avoid manual labor)
 
 ---
 
 <div>
   <img src="./flame.jpg" align="right" width="200" style="margin-left: 20px;" />
+  <br/>
+  <p>
+    <a href="https://github.com/biswa16-dev/EmoSync">
+      <img src="https://img.shields.io/badge/EMOSYNC-000000?style=for-the-badge&logo=github&logoColor=white" align="center" />
+    </a> &nbsp; An emotion-aware system because feelings are too complex to process manually.
+  </p>
+</div>
+<br clear="both"/>
+
+<br/>
+
+### Tech Stack
+
+---
+
+<div>
   <br/>
   <table border="0">
     <tr>
