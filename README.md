@@ -11,11 +11,76 @@
 <br/>
 
 ### 💻 Tech Stack
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,nodejs,python,mongodb,git,docker,gcp,cpp,postgres,mysql,nextjs,firebase,fastapi,tailwind&perline=8" alt="Tech Stack" />
-  </a>
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="140">
+        <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" />
+        <br /><strong>React</strong><br /><sub>FRONTEND</sub><br>
+      </td>
+      <td align="center" width="140">
+        <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" />
+        <br /><strong>TypeScript</strong><br /><sub>LANGUAGE</sub><br>
+      </td>
+      <td align="center" width="140">
+        <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" />
+        <br /><strong>Node.js</strong><br /><sub>BACKEND</sub><br>
+      </td>
+      <td align="center" width="140">
+        <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" />
+        <br /><strong>Python</strong><br /><sub>AI / ML</sub><br>
+      </td>
+      <td align="center" width="140">
+        <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" />
+        <br /><strong>MongoDB</strong><br /><sub>DATABASE</sub><br>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="140">
+        <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" />
+        <br /><strong>Git</strong><br /><sub>TOOLS</sub><br>
+      </td>
+      <td align="center" width="140">
+        <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" />
+        <br /><strong>Docker</strong><br /><sub>DEVOPS</sub><br>
+      </td>
+      <td align="center" width="140">
+        <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45" height="45" />
+        <br /><strong>Google Cloud</strong><br /><sub>CLOUD</sub><br>
+      </td>
+      <td align="center" width="140">
+        <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" />
+        <br /><strong>C++</strong><br /><sub>LANGUAGE</sub><br>
+      </td>
+      <td align="center" width="140">
+        <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" />
+        <br /><strong>PostgreSQL</strong><br /><sub>DATABASE</sub><br>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="140">
+        <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" />
+        <br /><strong>MySQL</strong><br /><sub>DATABASE</sub><br>
+      </td>
+      <td align="center" width="140">
+        <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45" />
+        <br /><strong>Next.js</strong><br /><sub>FRONTEND</sub><br>
+      </td>
+      <td align="center" width="140">
+        <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="45" height="45" />
+        <br /><strong>Firebase</strong><br /><sub>BACKEND</sub><br>
+      </td>
+      <td align="center" width="140">
+        <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" height="45" />
+        <br /><strong>FastAPI</strong><br /><sub>BACKEND</sub><br>
+      </td>
+      <td align="center" width="140">
+        <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" />
+        <br /><strong>Tailwind CSS</strong><br /><sub>FRAMEWORK</sub><br>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br/>
 
