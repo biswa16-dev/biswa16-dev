@@ -1,0 +1,32 @@
+name: GitHub Activity Graph
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 0 * * *" # Runs every day at midnight
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Generate Activity Graph
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate activity graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: biswa16-dev
+          options: bg_color=101010&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&custom_title=Biswajit's%20Contribution%20Graph
+          output_path: github-contribution-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit and push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add github-contribution-graph.svg
+          git commit -m "Update activity graph" || exit 0
+          git push
