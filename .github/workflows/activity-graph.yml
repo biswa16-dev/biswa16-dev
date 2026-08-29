@@ -20,7 +20,7 @@ jobs:
         uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
           username: biswa16-dev
-          options: bg_color=101010&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&custom_title=Biswajit's%20Contribution%20Graph
+          options: bg_color=101010&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&hide_title=true
           output_path: github-contribution-graph.svg
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit and push
