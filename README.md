@@ -145,7 +145,7 @@
 
 <div align="center">
   <a href="https://github.com/biswa16-dev">
-    <img src="https://ghchart.rshah.org/biswa16-dev" alt="Biswajit's Github Contribution Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=biswa16-dev&bg_color=101010&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Biswajit's Github Contribution Graph" width="100%" />
   </a>
 </div>
 
