@@ -23,6 +23,12 @@ jobs:
           options: bg_color=101010&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&hide_title=true
           output_path: github-contribution-graph.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      - name: Add tooltips to SVG
+        run: python .github/scripts/add_tooltips.py
       - name: Commit and push
         run: |
           git config --global user.name "biswa16-dev"
