@@ -20,7 +20,7 @@ jobs:
         uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
           username: biswa16-dev
-          options: bg_color=101010&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&hide_title=true
+          options: bg_color=101010&color=ffffff&line=ff0000&point=ffffff&area=true&hide_border=true&hide_title=true
           output_path: github-contribution-graph.svg
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: Set up Python
