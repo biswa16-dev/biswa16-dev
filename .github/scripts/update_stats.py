@@ -4,18 +4,27 @@ import re
 import os
 
 def get_stats(username):
-    url = f"https://api.github.com/users/{username}/repos?per_page=100"
     headers = {'User-Agent': 'Mozilla/5.0'}
     token = os.environ.get("GITHUB_TOKEN")
     if token:
         headers['Authorization'] = f'token {token}'
         
-    req = urllib.request.Request(url, headers=headers)
+    # Get user's own repos to calculate total forks
+    repos_url = f"https://api.github.com/users/{username}/repos?per_page=100"
+    req = urllib.request.Request(repos_url, headers=headers)
     with urllib.request.urlopen(req) as response:
         repos = json.loads(response.read().decode())
 
-    total_stars = sum(repo.get('stargazers_count', 0) for repo in repos)
     total_forks = sum(repo.get('forks_count', 0) for repo in repos)
+
+    # Get repos starred by the user to calculate total stars given
+    starred_url = f"https://api.github.com/users/{username}/starred?per_page=100"
+    req_starred = urllib.request.Request(starred_url, headers=headers)
+    with urllib.request.urlopen(req_starred) as response:
+        starred = json.loads(response.read().decode())
+        
+    total_stars = len(starred)
+    
     return total_stars, total_forks
 
 def update_readme(stars, forks):
