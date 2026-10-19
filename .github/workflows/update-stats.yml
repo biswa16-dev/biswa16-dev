@@ -1,8 +1,12 @@
 name: Update GitHub Stats
 
 on:
-  schedule:
-    - cron: "0 * * * *" # Runs every hour
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - 'README.md'
+      - 'github-contribution-graph.svg'
   workflow_dispatch: # Allows manual trigger
 
 jobs:
