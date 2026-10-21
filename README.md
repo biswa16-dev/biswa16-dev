@@ -146,7 +146,7 @@
 
 <div align="center">
   <a href="https://github.com/biswa16-dev">
-    <img src="./github-contribution-graph.svg" alt="Biswajit's Github Contribution Graph" width="100%" />
+    <img src="https://raw.githubusercontent.com/biswa16-dev/biswa16-dev/output/github-contribution-graph.svg" alt="Biswajit's Github Contribution Graph" width="100%" />
   </a>
 </div>
 
