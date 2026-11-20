@@ -132,6 +132,12 @@
 
 <br/>
 
+<div align="center">
+  <img src="./koi/koi.gif" alt="GitHub Koi" width="256" />
+</div>
+
+<br/>
+
 > Code is never finished, it only becomes slightly less terrible over time.
 
 <br/>
